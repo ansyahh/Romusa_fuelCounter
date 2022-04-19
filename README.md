@@ -1,5 +1,5 @@
 # Romusa_fuelCounter
-Topik : SPBU  , Fenomena : Proses perhitungan harga bahan bakar per liter
+Topik : SPBU, Fenomena : Proses pembelian dan pemilihan bahan bakar minyak per liter
 
 <hr>
 <b>1. Lakukan Kompilasi Terlebih Dahulu </b> 
