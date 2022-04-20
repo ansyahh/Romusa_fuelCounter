@@ -1,4 +1,4 @@
-rows = int(input("Masukkan maks jumlah kolom/baris : "));
+rows = int(input("Masukkan jumlah kolom/baris : "));
 for row in range(1, rows+1):
     for i in range(0, rows-row+1):
         print(" ",end="")
