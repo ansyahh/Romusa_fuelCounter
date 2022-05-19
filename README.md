@@ -14,7 +14,9 @@ Topik : SPBU, Fenomena : Proses pembelian dan pemilihan bahan bakar minyak per l
     <pre> 4. Al Hilal Habib (2108107010020)</pre>
     <pre> 5. Devi Anggraini (2108107010008)</pre>
 
-
+    #  NOTE⚠️
+<hr>
+<b> pastikan kata sandi dan username yang dimasukkan sudah benar 3</b>
 ### DATABASE
 <hr>
 <ul>
