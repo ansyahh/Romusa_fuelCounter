@@ -4,7 +4,8 @@ Topik : SPBU, Fenomena : Proses pembelian dan pemilihan bahan bakar minyak per l
 <b>1. Lakukan Kompilasi Terlebih Dahulu </b> 
 <pre><code> $ gcc -Wall -pedantic -g -o main main.c </code></pre>
 <b>2. Jalankan Program ini </b>
-<pre><code> $ ./main romusha ardisholat</code></pre>
+<pre><code> $ ./main romusha ardisholat</code></pre
+
 # anggota kelompok:
 <hr> 
     <pre> 1. Ardiansyah (2108107010023)</pre>
