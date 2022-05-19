@@ -21,4 +21,4 @@ for kata in kalimat:
             new_kata = new_kata.replace('U', 'Ugu')         
         new_kalimat += new_kata
 kalimat_akhir = "".join(new_kalimat)
-print("Ouput Bahasa g:", kalimat_akhir) 
+print("Output Bahasa g:", kalimat_akhir) 
