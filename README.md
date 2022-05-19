@@ -16,8 +16,7 @@ Topik : SPBU, Fenomena : Proses pembelian dan pemilihan bahan bakar minyak per l
 
     #  NOTE⚠️
 <hr>
-<b> pastikan kata sandi dan username yang dimasukkan sudah benar 3</b>
-### DATABASE
+<b> pastikan kata sandi dan username yang dimasukkan sudah benar
 <hr>
 <ul>
   <li>Username: romusha </li>
